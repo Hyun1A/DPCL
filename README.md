@@ -1,2 +1,2 @@
-# dpcl_aaai
+# DPCL
 Official Implementation of DPCL
