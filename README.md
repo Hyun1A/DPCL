@@ -21,3 +21,21 @@ To set up the python environment for running the code, we provide requirements.t
 <pre>
 pip install -r requirements.txt
 </pre>
+
+
+### Experiments
+
+**Disjoint continual learning**
+<pre>
+sh ./scripts/exp_script_blurry.sh
+</pre>
+
+**Blurry continual learning**
+<pre>
+sh ./scripts/exp_script_disjoint.sh
+</pre>
+
+**i-Blurry continual learning**
+<pre>
+sh ./scripts/exp_script_iblurry.sh
+</pre>
